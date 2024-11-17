@@ -1,0 +1,13 @@
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/rebuild_cache.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/test_function_cuda.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/test_kmeans.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/test_write_img.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/test_kmeans_cuda.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/kmeans_gpu.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/cuda_tools.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/kmeans.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/edit_cache.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/test.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/get_device_info.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/test_read_img.dir
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/build/CMakeFiles/img_preprocess.dir

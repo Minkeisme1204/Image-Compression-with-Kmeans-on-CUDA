@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkmeans_gpu.a  CMakeFiles/kmeans_gpu.dir/lib/kmeans_gpu.cu.o
+/usr/bin/ranlib libkmeans_gpu.a

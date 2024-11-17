@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkmeans.a  CMakeFiles/kmeans.dir/lib/kmeans.cpp.o
+/usr/bin/ranlib libkmeans.a

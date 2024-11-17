@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimg_preprocess.a  CMakeFiles/img_preprocess.dir/lib/img_preprocess.cpp.o
+/usr/bin/ranlib libimg_preprocess.a

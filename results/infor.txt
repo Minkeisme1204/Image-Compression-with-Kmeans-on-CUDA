@@ -1,0 +1,12 @@
+236 419
+The image size: 419 x 236
+Initial Cluster 0 7 37 37
+Initial Cluster 1 13 41 42
+Initial Cluster 2 13 44 39
+Initial Cluster 3 22 108 63
+Initial Cluster 4 86 216 142
+Initial Cluster 5 68 169 93
+Initial Cluster 6 153 143 54
+Initial Cluster 7 56 82 73
+Initial Cluster 8 9 24 29
+Initial Cluster 9 8 22 25

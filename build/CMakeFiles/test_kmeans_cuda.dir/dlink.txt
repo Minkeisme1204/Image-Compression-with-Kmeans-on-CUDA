@@ -1,0 +1,1 @@
+/usr/local/cuda-12.1/bin/nvcc   -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/test_kmeans_cuda.dir/test/test_kmeans_cuda.cu.o -o CMakeFiles/test_kmeans_cuda.dir/cmake_device_link.o 

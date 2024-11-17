@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/config.h
+
+../include/cuda_tools.h
+cuda_runtime.h
+../include/cuda_runtime.h
+device_launch_parameters.h
+../include/device_launch_parameters.h
+config.h
+../include/config.h
+iostream
+-
+
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/lib/cuda_tools.cu
+cuda_tools.h
+/home/minkescanor/Desktop/WORKPLACE/Hust/Image-Kmeans-Compress/lib/cuda_tools.h
+

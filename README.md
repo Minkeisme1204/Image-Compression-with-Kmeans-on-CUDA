@@ -1,0 +1,1 @@
+Kmeans is a Machine Learning algorithm which can be applied to the image compression problem. However, time running cost of this method is considerably high once implementing on single core cpu. In this project, it is supposed to give a comparision between that the algorithm is implemented only on CPU and it on GPU (NVidia GPU)  

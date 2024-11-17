@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_tools.a  CMakeFiles/cuda_tools.dir/lib/cuda_tools.cu.o
+/usr/bin/ranlib libcuda_tools.a
